@@ -1,6 +1,6 @@
 ---
 title: Wiring
-layout: default
+layout: page
 ---
 
 Things you'll need:
