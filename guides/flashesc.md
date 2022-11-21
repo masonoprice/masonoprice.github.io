@@ -9,7 +9,7 @@ layout: page
 3. What you need depends on the ESC that you’re using.
 4. 32 talks to Mamba
 
-**Steps 1: Open BLHeli 32 Suite**
+**Step 1: Open BLHeli 32 Suite**
 1. We use an arduino to talk to the ESC. (There are other options but this is what we use).
 
 **Step 2: Connect the Pins:**
