@@ -14,7 +14,7 @@ layout: page
 
 **Step 2: Connect the Pins:**
 1. On the ESC, we have current, telemetry, 4,3,2,1, VBat and Ground.
-2. Different ESCs have different pin-outs for the same connector. (Some might have telemetry and current swapped, or VBat and Ground swapped --> look at the actual ESC’s pins)
+2. Different ESCs have different pin-outs for the same connector. (Some might have telemetry and current swapped, or VBat and Ground swapped → look at the actual ESC’s pins)
 3. Plug in cable to the ESC:
 - Pin that is negative plugs into the ground cable. (i.e. ground goes to ground.)
 - Don’t use Plus. This is battery voltage out, and we don’t want to feed it into the Arduino. We only care about ground and signal.
