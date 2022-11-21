@@ -4,7 +4,7 @@ layout: page
 ---
 
 **If you don’t have BLHeli Suite:**
-1. Download and install BLHeli suite. BlHeli Suite 32 is available here, but you can also find it just by searching BLHeli Suite 32. 
+1. Download and install BLHeli suite. BlHeli Suite 32 is available [here](https://github.com/bitdump/BLHeli/releases), but you can also find it just by searching BLHeli Suite 32. 
 2. Note: BlHeli_S is not BLHeli 32
 3. What you need depends on the ESC that you’re using.
 4. 32 talks to Mamba
