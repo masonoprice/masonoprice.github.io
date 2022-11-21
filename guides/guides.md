@@ -8,7 +8,7 @@ categories:
 ---
 
 ### Electronics guides:
-1. [Wiring](../wiring.md)
+1. [Wiring](masonoprice.github.io/guides/wiring.md)
 2. [Flashing an ESC](flashesc.md)
 3. [Flashing a Receiver](flashreceiver.md)
 
