@@ -13,7 +13,7 @@ layout: page
 
 **1st Law- Nathan Cai**
 - Bot overview [here]()
-- Wiki page [here](https://wiki.nhrl.io/wiki/index.php/1st_Law))
+- Wiki page [here](https://wiki.nhrl.io/wiki/index.php/1st_Law)
 
 
 ![450px-1st_Law_V1 0](https://user-images.githubusercontent.com/118695279/203150672-d094e81f-0ea1-40d5-86c5-d15bd9b525b1.jpg)
