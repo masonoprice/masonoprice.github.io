@@ -1,6 +1,6 @@
 ---
 title: Our Robots
-layout: default
+layout: page
 ---
 
 **Chubby Unicorn- Tim Hebert**
