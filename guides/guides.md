@@ -8,12 +8,12 @@ categories:
 ---
 
 ## Electronics guides:
-[Wiring](wiring.md)
-[Flashing an ESC](flashesc.md)
-[Flashing a Receiver](flashreceiver.md)
+1. [Wiring](wiring.md)
+2. [Flashing an ESC](flashesc.md)
+3. [Flashing a Receiver](flashreceiver.md)
 
 ## Design guides:
-[CAD](cad_guide.md)
+1. [CAD](cad_guide.md)
 
 ## Manufacturing guides:
-[CNC](cnc_guide.md)
+1. [CNC](cnc_guide.md)
