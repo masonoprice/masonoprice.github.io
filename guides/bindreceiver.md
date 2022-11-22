@@ -6,11 +6,10 @@ layout: page
 **Step 1: Turn on your controller/transmitter**
 
 **Step 2: Create a new Model**
-1. Go to menu by pressing Hamburger of 3 horizontal lines
-2. Create new Model
-3. Go to an empty line 
-4. Press the big circle button on the right-hand side of your controller
-5. Press ‘Create New Model’
+1. Go to the menu by pressing the hamburger of 3 horizontal lines on the left-hand side of your controller
+2. Go to an empty line 
+3. Press the big circle button on the right-hand side of your controller
+4. Press ‘Create New Model’
 
 **Step 3: Bind**
 1. Press ‘Page’ → You’ll be on ‘Setup’
