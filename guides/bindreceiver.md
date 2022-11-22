@@ -4,6 +4,7 @@ layout: page
 ---
 
 **Step 1: Turn on your controller/transmitter**
+
 **Step 2: Create a new Model**
 1. Go to menu by pressing Hamburger of 3 horizontal lines
 2. Create new Model
