@@ -10,7 +10,7 @@ categories:
 ### Electronics guides:
 1. [Wiring](wiring.md)
 2. [Flashing an ESC](flashesc.md)
-3. [Flashing a Receiver](flashreceiver.md)
+3. [Flashing a Receiver](bindreceiver.md)
 
 ### Design guides:
 1. [CAD](cad_guide.md)
