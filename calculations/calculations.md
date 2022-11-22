@@ -3,7 +3,7 @@ title: Calculations
 layout: page
 ---
 
-### Calculator [here](calculator.md) to calculate:
+### Calculator [here](calc.md) to calculate:
 1. Ground speed
 2. Weapon speed
 3. Spin-up time
