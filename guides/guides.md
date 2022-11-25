@@ -14,6 +14,7 @@ categories:
 
 ### Design guides:
 1. [CAD](cad_guide.md)
+2. [Fasteners](fasteners.md)
 
 ### Manufacturing guides:
 1. [CNC](cnc_guide.md)
