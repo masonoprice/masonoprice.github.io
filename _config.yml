@@ -15,7 +15,6 @@ show_description: true     #show the site description in the side bar
 show_title: true        #always keep the site name visible
 
 #styling
-dark_header: true #keep dark header
 minimal: false             # keep simple style
 
 # Menu
