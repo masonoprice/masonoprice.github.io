@@ -3,6 +3,7 @@ layout: page
 title: "Home"
 ---
 
+![flc_design2022120487755](https://user-images.githubusercontent.com/118695279/205478061-4a0241ae-2c37-4322-a7d7-ec6ec1ea29fa.png)
 
 
 ## Who are we?
