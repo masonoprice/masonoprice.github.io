@@ -2,6 +2,7 @@
 layout: page
 title: "Home"
 ---
+# Deis Robotics
 
 ### Mission statement:
 Deis Robotics’s primary goal is to provide students with the opportunity to learn about numerous aspects of mechanical engineering, electrical engineering, and computer science in order to design and build fully operational machines.
