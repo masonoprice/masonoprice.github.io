@@ -11,9 +11,8 @@ date_format: "%B %d, %Y"
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
-show_related: true  #show the previous and next links after every post
-show_description: true#show the site description in the side bar
-show_title: true  #always keep the site name visible
+show_description: true     #show the site description in the side bar
+show_title: true        #always keep the site name visible
 
 #styling
 dark_header: true #keep dark header
