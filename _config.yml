@@ -1,6 +1,6 @@
-title: Deis Robotics
-author: Robotics Club & co.
-description: Brandeis University
+title: "Deis Robotics"
+author: "Robotics Club & co."
+description: "Brandeis University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
