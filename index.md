@@ -6,7 +6,7 @@ title: "Home"
 ![20221202_171455](https://user-images.githubusercontent.com/118695279/205403720-6ae4dc7b-3472-4c45-8148-8e8e778112bd.jpg)
 
 ## Who are we?
-Deis Robotics is a club team at Brandeis University. We're a diverse group of students connected by a common interest in robotics, and we're supported by the amazing Staff Supervisor, Timothy Hebert. Right now, we're really active in the fun sport of Combat Robotics, and we've attended a number of events at Norwalk Havoc Robotics Leage ([NHRL](https://www.nhrl.io/)
+Deis Robotics is a club team at Brandeis University. We're a diverse group of students connected by a common interest in robotics, and we're supported by the amazing Staff Supervisor, Timothy Hebert. Right now, we're really active in the fun sport of Combat Robotics, and we've attended a number of events at Norwalk Havoc Robotics Leage ([NHRL](https://www.nhrl.io/))
 
 
 ## What can you find in this website?
