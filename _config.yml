@@ -24,8 +24,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "guides.md", title: "Guides", icon: archive}
   - {file: "about.md",  title: "About", icon: address-card}
   - {file: "our_bots.md", title: "Projects", icon: clipboard}
-  - {file: "calculations.md", title: "Calculations"}
-  - {title: "Wiki", url: "https://wiki.nhrl.io/wiki/index.php/Krikit"}
+  - {file: "calculations.md", title: "Calculations", icon: calculator}
+  - {title: "Wiki", url: "https://wiki.nhrl.io/wiki/index.php/Krikit", icon: wiki}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/masonoprice/masonoprice.github.io"}
