@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home"}
+  - {file: "index.md", title: "Deis Robotics"}
   - {file: "guides.md", title: "Guides"}
-  - {file: "our_bots.md", title: "Our Robots"}
+  - {file: "our_bots.md", title: "Projects"}
   - {file: "calculations.md", title: "Calculations"}
   - {title: "Wiki", url: "https://wiki.nhrl.io/wiki/index.php/Krikit"}
 
