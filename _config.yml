@@ -1,6 +1,6 @@
-title: "Deis Robotics"
-author: "Robotics Club & co."
-description: "Brandeis University"
+title: Deis Robotics
+author: Robotics Club & co.
+description: Brandeis University
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -10,15 +10,22 @@ date_format: "%B %d, %Y"
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+show_sidebar: true        # show a sidebar instead of the usual header
+show_related: true  #show the previous and next links after every post
+show_description: true#show the site description in the side bar
+show_title: true  #always keep the site name visible
+
+#styling
+dark_header: true #keep dark header
+minimal: false             # keep simple style
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home"}
-  - {file: "guides.md", title: "Guides"}
-  - {file: "our_bots.md", title: "Projects"}
+  - {file: "index.md", icon: home, title: "Home"}
+  - {file: "guides.md", icon: archive, title: "Guides"}
+  - {file: "about.md", icon: address-card, title: "About"}
+  - {file: "our_bots.md", icon: clipboard, title: "Projects"}
   - {file: "calculations.md", title: "Calculations"}
   - {title: "Wiki", url: "https://wiki.nhrl.io/wiki/index.php/Krikit"}
 
