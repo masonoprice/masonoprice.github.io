@@ -21,10 +21,10 @@ minimal: false             # keep simple style
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", icon: home, title: "Home"}
-  - {file: "guides.md", icon: archive, title: "Guides"}
-  - {file: "about.md", icon: address-card, title: "About"}
-  - {file: "our_bots.md", icon: clipboard, title: "Projects"}
+  - {file: "index.md", title: "Home",  icon: home, }
+  - {file: "guides.md", title: "Guides", icon: archive}
+  - {file: "about.md",  title: "About", icon: address-card}
+  - {file: "our_bots.md", title: "Projects", icon: clipboard}
   - {file: "calculations.md", title: "Calculations"}
   - {title: "Wiki", url: "https://wiki.nhrl.io/wiki/index.php/Krikit"}
 
