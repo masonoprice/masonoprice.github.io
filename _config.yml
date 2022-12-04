@@ -12,7 +12,7 @@ show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 sidebar: true        # show a sidebar instead of the usual header
 show_description: true     #show the site description in the side bar
-show_title: true        #always keep the site name visible
+show_title: false        #always keep the site name visible
 
 #styling
 minimal: false             # keep simple style
@@ -20,6 +20,7 @@ minimal: false             # keep simple style
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {url: "masonoprice.github.io", title: "Deis Robotics", icon: dice-d12}
   - {file: "index.md", title: "Home",  icon: home }
   - {file: "guides.md", title: "Guides", icon: archive}
   - {file: "our_bots.md", title: "Projects", icon: clipboard}
