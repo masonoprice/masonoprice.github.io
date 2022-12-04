@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Deis Robotics"}
+  - {file: "index.md", title: "Home"}
   - {file: "guides.md", title: "Guides"}
   - {file: "our_bots.md", title: "Projects"}
   - {file: "calculations.md", title: "Calculations"}
