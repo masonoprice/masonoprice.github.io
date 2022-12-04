@@ -1,6 +1,6 @@
 ---
 title: Wiring
-layout: page
+layout: post
 ---
 
 Things you'll need:
